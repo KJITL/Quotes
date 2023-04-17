@@ -12,7 +12,8 @@ https://docs.flutter.dev/get-started/install
 ## Features & Screenshots
 1- Inspirational Quotes: View a collection of curated quotes to inspire and motivate.
 
-<img src="https://user-images.githubusercontent.com/65549274/232423834-8f945abf-58ef-4591-9f87-49600463241c.png" width="400">
+<img src="https://user-images.githubusercontent.com/65549274/232424080-f5dce3a6-b68c-459d-8819-ca61d70536d0.png" width="400">
+
 
 
 ## Resources
